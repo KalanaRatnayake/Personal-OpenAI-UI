@@ -22,7 +22,7 @@ docker compose up -d
 Access Open WebUI in your browser at:
 
 ```
-http://localhost:5001
+http://localhost:3001
 ```
 
 change the port if required.
